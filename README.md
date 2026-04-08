@@ -9,3 +9,4 @@ Estes projeto é totalmente **estático**, ideal para iniciantes no **python**, 
 ## **Funcionalidades e Projetos**
 
 - aniversário.py um arquivo python que simula um pedido de aniversário com python usando Turtle.  
+- analise.py um simulador de análise de casa de apostas
